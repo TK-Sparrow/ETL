@@ -1,0 +1,10 @@
+new1,l2 arml,amount,trade id,branch
+new1,saccr,amount,trade_id,branch
+new2,l2 arml,amount,trade_id,price
+new2,saccr,amount,trade id,value
+killer,l2 arml,end_date,amount,payment_mode,trade_id,product_type,price,expiry_date,currency,branch,start_date
+killer,saccr,end_date,amount,payment_mode,trade_id,product_type,price,expiry_date,currency,branch,start_date
+dff,l2 arml,country,lessthanequalto30days,remainingbalance,between61to90days,between31to60days,paymentdue,principalbalance,payer,principal,trade_id,interest,portfolio,currency,between91to120days,overdueinterest,leaseitem,totaloutstanding,taxpaid,invoicenumber,contract,totaldue,taxdue,taxoutstanding,numberofremainingpaymentsdue,over120days,totalpaid,depositsheld,beneficiary,daysoverdue,duedate,category,adhoc
+dff,saccr,country,lessthanequalto30days,remainingbalance,between61to90days,between31to60days,paymentdue,principalbalance,payer,principal,trade_id,interest,portfolio,currency,between91to120days,overdueinterest,leaseitem,totaloutstanding,taxpaid,invoicenumber,contract,totaldue,taxdue,taxoutstanding,numberofremainingpaymentsdue,over120days,totalpaid,depositsheld,beneficiary,daysoverdue,duedate,category,adhoc
+,L2 ARML,end_date,amount,payment_mode,trade_id,product_type,price,expiry_date,currency,branch,start_date
+,SACCR,end_date,amount,payment_mode,trade_id,product_type,price,expiry_date,currency,branch,start_date
